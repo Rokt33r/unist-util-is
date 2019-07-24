@@ -1,5 +1,5 @@
 {
-  "name": "unist-util-is",
+  "name": "@rokt33r/unist-util-is",
   "version": "3.0.0",
   "description": "Utility to check if a node passes a test",
   "license": "MIT",
